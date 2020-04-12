@@ -1,1 +1,2 @@
-# redis implementation using java
+# redis
+Redis implementation in Spring Boot
