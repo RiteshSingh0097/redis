@@ -1,2 +1,2 @@
-# redis
-Redis implementation in Spring Boot
+# Spring-Boot implementation
+Redis implementation in Spring Boot.
